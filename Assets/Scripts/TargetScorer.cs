@@ -6,7 +6,7 @@ public class TrackingScorer : MonoBehaviour
     public float targetY = 0.5f;
 
     public float hitRadius = 0.55f;
-    public float scorePerSecond = 100f;
+    public float scorePerSecond = 25f;
 
     public float score;
     public bool isHovering;
